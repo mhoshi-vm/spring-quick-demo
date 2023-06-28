@@ -110,7 +110,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<imageName>ghcr.io/mhoshi-vm/spring-demo-app</imageName>
+					<imageName>ghcr.io/mhoshi-vm/spring-demo-app-graal</imageName>
 				</configuration>
 			</plugin>
 		</plugins>
